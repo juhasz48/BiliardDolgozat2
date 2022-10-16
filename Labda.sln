@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labda", "Labda\Labda.csproj", "{DCAEE19B-9D35-411B-8646-E064FE971E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAEE19B-9D35-411B-8646-E064FE971E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAEE19B-9D35-411B-8646-E064FE971E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAEE19B-9D35-411B-8646-E064FE971E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAEE19B-9D35-411B-8646-E064FE971E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0D6F33-6E51-4984-BBFE-0DB65EAFB80B}
+	EndGlobalSection
+EndGlobal
